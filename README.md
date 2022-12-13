@@ -2,7 +2,14 @@
 
 ## Description 
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+#####Deployed Link:
+https://chrisgriffin2001.github.io/html-module-one/
+
+
+#####Repo Link:
+
+https://github.com/chrisgriffin2001/html-module-one
 
 The motivation for this project was the clients requested to refactor their existing website to make it more accessible, the final outcome of this project was to solve the problem of making easier for people to access and especially those with disabilities, reason which was to make the rankings better on Google when search for these options.
 
